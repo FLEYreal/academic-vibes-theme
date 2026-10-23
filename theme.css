@@ -45,10 +45,16 @@ body {
   --color-base-50: #7A7873;   /* faint */
   --color-base-60: #9C9A94;
   --color-base-70: #BEBCB6;   /* muted */
-  --color-base-100: #FFFFFF;  /* normal: plain white */
+  --color-base-100: #FFFFFF;
+  --text-normal: #DDDBD5;     /* normal: soft off-white, so bold and headings stand out */
 
+  /* Bold and headings stay plain white */
   --bold-color: #FFFFFF;
+  --h1-color: #FFFFFF;
+  --h2-color: #FFFFFF;
+  --h3-color: #FFFFFF;
   --h4-color: #FFFFFF;
+  --h6-color: #FFFFFF;
   --h5-color: var(--color-base-70);
   --hr-color: var(--color-base-40);
 

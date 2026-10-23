@@ -13,7 +13,7 @@ Guidance for AI coding agents working on **Academic-Vibes**, a near-black Obsidi
 | `LICENSE` | MIT for the theme code. |
 | `OFL.txt` | SIL Open Font License 1.1 for the bundled Noto Serif. |
 
-There is no build system, package manager or test suite. `PLAN.md` is the owner's local plan and is excluded from git via `.git/info/exclude`; never commit it.
+There is no build system, package manager or test suite. `./md` is the owner's local markdown files ecosystem for AI agents. It is excluded from git via `~/.config/git/ignore`; never commit it.
 
 ## Theme structure
 

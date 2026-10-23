@@ -2,7 +2,7 @@
 
 A near-black [Obsidian](https://obsidian.md) theme set in **Noto Serif**. Your notes won't get smarter, but they'll look like they did.
 
-![Academic-Vibes screenshot](screenshot.png)
+![Academic-Vibes screenshot](images/preview.png)
 
 ## Features
 
