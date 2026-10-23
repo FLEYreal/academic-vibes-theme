@@ -1,13 +1,13 @@
 # Academic-Vibes
 
-A near-black [Obsidian](https://obsidian.md) theme set in **EB Garamond**. Your notes won't get smarter, but they'll look like they did.
+A near-black [Obsidian](https://obsidian.md) theme set in **Noto Serif**. Your notes won't get smarter, but they'll look like they did.
 
 ![Academic-Vibes screenshot](screenshot.png)
 
 ## Features
 
-- **EB Garamond** for notes, titles and headings, bundled inside the theme. Nothing to install, and it works offline.
-- Full **Latin and Cyrillic** support, with variable weights from regular to extra-bold and a true italic.
+- **Noto Serif** for notes, titles and headings, bundled inside the theme. Nothing to install, and it works offline.
+- Full **Latin and Cyrillic** support, with variable weights from regular to bold and a true italic.
 - A **near-black** background, with sidebars a shade darker than the editor and soft hairline borders.
 - A **burnt-orange accent** and the [Flexoki](https://stephango.com/flexoki) palette for colored text, callouts and highlights.
 - The interface and code blocks keep Obsidian's default fonts, so the app stays crisp and familiar.
@@ -35,10 +35,10 @@ A near-black [Obsidian](https://obsidian.md) theme set in **EB Garamond**. Your 
 
 ## Credits
 
-- [EB Garamond](https://github.com/octaviopardo/EBGaramond12) by Georg Duffner and Octavio Pardo, under the SIL Open Font License 1.1.
+- [Noto Serif](https://github.com/notofonts/latin-greek-cyrillic) by the Noto Project Authors, under the SIL Open Font License 1.1.
 - Accent colors from [Flexoki](https://stephango.com/flexoki) by Steph Ango.
 
 ## License
 
 The theme is released under the [MIT License](LICENSE).
-The bundled EB Garamond font is **not** covered by the MIT License. It stays under the [SIL Open Font License 1.1](OFL.txt).
+The bundled Noto Serif font is **not** covered by the MIT License. It stays under the [SIL Open Font License 1.1](OFL.txt).
