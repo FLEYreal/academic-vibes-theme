@@ -40,10 +40,11 @@ body {
   --color-base-30: #232221;   /* hairline borders */
   --color-base-35: #2A2928;
   --color-base-40: #363533;
+
   /* Text */
-  --color-base-50: #5E5D59;   /* faint */
-  --color-base-60: #7A7873;
-  --color-base-70: #9C9A94;   /* muted */
+  --color-base-50: #7A7873;   /* faint */
+  --color-base-60: #9C9A94;
+  --color-base-70: #BEBCB6;   /* muted */
   --color-base-100: #FFFFFF;  /* normal: plain white */
 
   --bold-color: #FFFFFF;
@@ -51,10 +52,10 @@ body {
   --h5-color: var(--color-base-70);
   --hr-color: var(--color-base-40);
 
-  /* Accent: amber orange */
-  --accent-h: 35;
-  --accent-s: 95%;
-  --accent-l: 45%;
+  /* Accent: burnt orange */
+  --accent-h: 20;
+  --accent-s: 100%;
+  --accent-l: 39%;
 
   /* Flexoki accent palette */
   --color-red-rgb: 209, 77, 65;

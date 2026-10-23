@@ -9,7 +9,7 @@ A near-black [Obsidian](https://obsidian.md) theme set in **EB Garamond**. Your 
 - **EB Garamond** for notes, titles and headings, bundled inside the theme. Nothing to install, and it works offline.
 - Full **Latin and Cyrillic** support, with variable weights from regular to extra-bold and a true italic.
 - A **near-black** background, with sidebars a shade darker than the editor and soft hairline borders.
-- An **amber accent** and the [Flexoki](https://stephango.com/flexoki) palette for colored text, callouts and highlights.
+- A **burnt-orange accent** and the [Flexoki](https://stephango.com/flexoki) palette for colored text, callouts and highlights.
 - The interface and code blocks keep Obsidian's default fonts, so the app stays crisp and familiar.
 
 > [!note]
